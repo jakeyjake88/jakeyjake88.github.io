@@ -38,3 +38,52 @@ a:hover {
 .header h1 {
     font-size: 32;
 }
+
+.main {
+    padding: 20px 0;
+}
+
+.main-content {
+    float: left;
+    width: 700px;
+    padding: 0 20px;
+}
+
+.sidebar {
+    float: right;
+    width: 200px;
+    padding: 0 20px;
+}
+
+.sidebar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.sidebar ul li {
+    margin: 10px 0;
+    padding: 0;
+}
+
+.sidebar ul li a {
+    color: #FF4F4F;
+    font-weight: bold;
+}
+
+.portfolio-item {
+    margin: 10px 0;
+    padding: 0;
+}
+
+.portfolio-item img {
+    max-width: 100%;
+}
+
+.footer {
+    background-color: #333333;
+    color: #FFFFFF;
+    padding: 10px;
+    clear: both;
+    text-align: center;
+}
